@@ -1,4 +1,4 @@
-# 👋 Hello there, I'm [Taha T.]!
+# 👋 Hello there, I'm Taha!
 
 🎓 **3rd Year IT Student | Aspiring Data Analyst | Python Developer | Hobbyist Game Developer**
 
