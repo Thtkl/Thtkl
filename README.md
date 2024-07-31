@@ -1,34 +1,41 @@
-# 👋 Hello there, I'm Taha!
+<h1 align="left">Hello There 🖖</h1>
 
-🎓 **3rd Year IT Student | Aspiring Data Analyst | Python Developer | Hobbyist Game Developer**
+###
 
----
+<p align="left">My name is Taha and I'm a 3rd year I.T student.</p>
 
-## About Me
+###
 
-I'm a passionate IT student currently in my third year of studies. My interests and skills span across various domains, including data analysis, Python programming, and game development. Here's a little more about what I do and what I'm passionate about:
+<p align="left">🚀 I have a strong passion for data analytics and software development.<br> My journey in the tech world began with curiosity and has transformed into a commitment to continuously learning and creating impactful projects.</p>
 
-- 📊 **Data Analysis**: I'm diving deep into the world of data. I'm learning how to analyze, visualize, and interpret data to make insightful decisions. Tools and technologies I use include:
-  - Python (Pandas, NumPy)
-  - SQL
-  - Excel
+###
 
-- 🐍 **Python Programming**: Python is my go-to language for scripting and automating tasks. I enjoy creating small projects and scripts to solve problems and learn new concepts.
+<h2 align="left">Skills</h2>
 
-- 🎮 **Game Development**: As a hobby, I love developing games. I'm exploring different tools and engines to bring my ideas to life:
-  - Blender (3D modeling and animation)
-  - Unity (Game development engine)
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div>
 
-## Skills
+###
 
-- **Languages**: Python, SQL
-- **Tools**: Excel, Jupyter Notebook, Git
-- **SoftSkills**: Problem-Solving, Communication, Teamwork
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thtkl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thtkl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Thtkl&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
----
-
-## Fun Fact
-
-When I'm not coding or studying, you can find me experimenting with new game ideas, learning new tech, or just enjoying a good book.
+###
