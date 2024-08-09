@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Taha and I'm a 3rd year I.T student.</p>
+<p align="left">I'm a 3rd year I.T student.</p>
 
 ###
 
