@@ -1,12 +1,12 @@
-<h1 align="left">Hello There 🖖</h1>
+<h1 align="left">Live long and prosper 🖖</h1>
 
 ###
 
-<p align="left">I'm a 3rd year I.T student.</p>
+<p align="left">I.T student.</p>
 
 ###
 
-<p align="left">🚀 I have a strong passion for data analytics and software development.<br> My journey in the tech world began with curiosity and has transformed into a commitment to continuously learning and creating impactful projects.</p>
+<p align="left">🚀 I have a strong passion for software development.<br> My journey in the tech world began with curiosity and has transformed into a commitment to continuously learning and creating impactful projects.</p>
 
 ###
 
