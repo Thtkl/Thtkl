@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">I.T student.</p>
+<p align="left">I.T SPECIALIST.</p>
 
 ###
 
-<p align="left">🚀 I have a strong passion for software development.<br> My journey in the tech world began with curiosity and has transformed into a commitment to continuously learning and creating impactful projects.</p>
+<p align="left">I have a strong passion to help people, currently taking CompTIA A+, graduated from Information Technology</p>
 
 ###
 
